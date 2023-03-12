@@ -39,3 +39,4 @@
 - Naprawiono crash gry po wyjściu gracza. Praca nad naprawieniem błedu "Po wyjściu gracza z meczu pojawiają się komunikatu o oczekiwaniu na gracza a póżniej gracz opuścił mecz"
 #### 12.03.2023
 - Dodano przedstawienie graficzne kart v1
+- Praca nad dobieraniem dodatkowej karty
