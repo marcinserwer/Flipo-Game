@@ -40,3 +40,6 @@
 #### 12.03.2023
 - Dodano przedstawienie graficznych kart
 - Dodano dobieranie dodatkowych kart 
+#### 19.03.2023
+- Modyfikacja skryptu tworzącego główną kartę
+- Rozpoczęto prace nad rzucaniem kart
