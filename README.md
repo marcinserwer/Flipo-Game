@@ -44,4 +44,4 @@
 - Modyfikacja skryptu tworzącego główną kartę
 - Rozpoczęto prace nad rzucaniem kart
 #### 22.03.2023
-- Rozpoczęto prace nad ruchami graczy
+- Dodano ruchy graczy, czyli kto aktulanie rzuca
