@@ -45,3 +45,6 @@
 - Rozpoczęto prace nad rzucaniem kart
 #### 22.03.2023
 - Dodano ruchy graczy, czyli kto aktulanie rzuca
+#### 24.03.2023
+- Zmodyfikowano kod dotyczący przechowywania kart
+- Dalsze prace nad rzucaniem kart
