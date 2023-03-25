@@ -48,3 +48,6 @@
 #### 24.03.2023
 - Zmodyfikowano kod dotyczący przechowywania kart
 - Dalsze prace nad rzucaniem kart
+### 25.03.2023
+- Dalsze prace nad rzucaniem kart
+- Dodano komunikat o wygranym/przegranym meczu
