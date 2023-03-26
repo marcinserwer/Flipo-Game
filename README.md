@@ -51,3 +51,5 @@
 ### 25.03.2023
 - Dalsze prace nad rzucaniem kart
 - Dodano komunikat o wygranym/przegranym meczu
+### 26.03.2023
+- Błędy: Można rzucać karty jeśli główna karta jest np. zmiana strony i ma numer 0 to można rzucić byle jaką kartę która ma też numer 0
