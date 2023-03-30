@@ -55,3 +55,6 @@
 - Błędy: Można rzucać karty jeśli główna karta jest np. zmiana strony i ma numer 0 to można rzucić byle jaką kartę która ma też numer 0
 ### 29.03.2023
 - Naprawiono błąd z dnia 26.03.2023
+### 30.03.2023
+- Dalsza praca nad rzucaniem kart
+- Błędy: Czasami zdarza się że karta Plus4, Plus2 dodaje karty sobie a nie przeciwnikowi
