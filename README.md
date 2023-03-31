@@ -58,3 +58,5 @@
 ### 30.03.2023
 - Dalsza praca nad rzucaniem kart
 - Błędy: Czasami zdarza się że karta Plus4, Plus2 dodaje karty sobie a nie przeciwnikowi
+### 31.03.2023
+- Błędy: Można rzucić zmianę koloru gdy nawet poprzedni gracz nie wybrał koloru
