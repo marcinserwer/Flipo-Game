@@ -61,3 +61,5 @@
 ### 31.03.2023
 - Naprawiono błąd z dnia 26.03.2023
 - Błędy: Można rzucić zmianę koloru gdy nawet poprzedni gracz nie wybrał koloru
+### 1.04.2023
+- Naprawiono błąd który powodował dobieranie np. 6 kart, gdy gracz rzucił plus2 a następnie plus4 i przeciwnikowi nie dodawało 4 kart tylko 6 kart
