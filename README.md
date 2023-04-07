@@ -1,8 +1,11 @@
 # UNO Game
 ### Opis
-- Stworzenie gry która spełni prawie każde upodobania
+- Kiedy chcesz szybko zagrać z drugą osobą w Uno bo macie taką ochotę. Macie do wyboru Una które są brzydkie, mało intuicyjne, nie zachęcające, nastawione na zarobek i mają gdzieś graczy oraz dużo ważą, a wam chodzi aby jak najszybciej sobie pograć.
 ### Przyszłe plany
 - Dodać galerie NFT i możliwość kupowania skórek do kart
+- Zapraszanie kolegów za pomocom kodu zaproszeń
+- Obsługa czarnego motywu
+- Granie w trzy i cztery osoby (Aktualnie jest tworzone dla dwóch)
 
 ### Postęp pracy 
 1. Stworzono system losowania kart
@@ -12,10 +15,8 @@
 #### 26.12.2022
 - Stworzenie połączenia czasu rzeczywistego z serwerem, podczas uruchomienia aplikacji jest wysyłana nazwa użytkownika, stworzenie pokoju i możliwość dołączenia do niego.
 - Błędy: Gdy jest sworzony pokój, automacznie uruchamia główną grę(powinno czekać na dołączenie gracza)
-
 #### 27.12.2022
 - Dodanie gdy zmieniamy nick, serwer usuwa z serwera poprzedni nick i dodaje nowy.
-
 #### 30.12.2022
 - Dodanie oczekiwania na drugiego gracza w pokoju
 #### 05.01.2023
