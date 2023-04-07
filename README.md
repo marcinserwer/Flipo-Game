@@ -1,6 +1,6 @@
 # UNO Game
-### Opis
-- Kiedy chcesz szybko zagrać z drugą osobą w Uno bo macie taką ochotę. Macie do wyboru Una które są brzydkie, mało intuicyjne, nie zachęcające, nastawione na zarobek i mają gdzieś graczy oraz dużo ważą, a wam chodzi aby jak najszybciej sobie pograć.
+<h3 align="center">Kiedy chcesz szybko zagrać z drugą osobą w Uno bo macie taką ochotę. Macie do wyboru Una które są brzydkie, mało intuicyjne, nie zachęcające, nastawione na zarobek i mają gdzieś graczy oraz dużo ważą, a wam chodzi aby jak najszybciej sobie pograć. </h3>
+
 ### Przyszłe plany
 - Dodać galerie NFT i możliwość kupowania skórek do kart
 - Zapraszanie kolegów za pomocom kodu zaproszeń
