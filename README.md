@@ -65,3 +65,6 @@
 - Naprawiono błąd który powodował dobieranie np. 6 kart, gdy gracz rzucił plus2 a następnie plus4 i przeciwnikowi nie dodawało 4 kart tylko 6 kart
 - Naprawiono błąd z dnia 31.03.2023
 - Dodano funkcję karty zmiana strony
+### 07.04.2023
+- Nowa lekko zmieniona ikonka gry
+- Dodano licznik czasowy odmierzający czas do końca ruchu gracza
