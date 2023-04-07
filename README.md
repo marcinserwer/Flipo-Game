@@ -68,3 +68,4 @@
 ### 07.04.2023
 - Nowa lekko zmieniona ikonka gry
 - Dodano licznik czasowy odmierzający czas do końca ruchu gracza
+- Optymalizacja kodu o 65 linijek
