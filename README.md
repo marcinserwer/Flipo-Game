@@ -6,6 +6,7 @@
 - Zapraszanie kolegów za pomocom kodu zaproszeń
 - Obsługa czarnego motywu
 - Granie w trzy i cztery osoby (Aktualnie jest tworzone dla dwóch)
+- Muzyka która dopasowuje się do rozgrywki
 
 ### Postęp pracy 
 1. Stworzono system losowania kart
