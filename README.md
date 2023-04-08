@@ -23,7 +23,8 @@
 - Dodano okno z konfiguracją meczu: ilość graczy (tylko 2) i ilość kart. Dodano w main_game ilość kart jest pobierana z serwera, komunikat gdy przeciwnik opuści gre i przechodzi do waiting_rooms
 ### Wersja 0.2 (08.01.2023 - TBA, 17 dni pracy)
 - Dodano ilość kart dla drugiego gracza, wyświetlanie dynamicznie graficznych ilości kart przeciwnika, przerobiono funkcję gdzy przeciwnik opuści gre.
-- Błędy: Podwójne komunikaty o "oczekiwaniu na gracza", gdy przeciwnik wychodzi z meczu pokazują się komunikaty o "oczekiwaniu na gracza" a nastepnie "gracz opuścił mecz", talia przeciwnika powinna być dla player2 jeśli jesteś player1 i na odwrót a nie tylko dla player2
+- Błąd: Podwójne komunikaty o "oczekiwaniu na gracza", gdy przeciwnik wychodzi z meczu pokazują się komunikaty o "oczekiwaniu na gracza" a nastepnie "gracz opuścił mecz"
+- Błąd: Talia przeciwnika powinna być dla player2 jeśli jesteś player1 i na odwrót a nie tylko dla player2 (Naprawiono)
 - Naprawiono błąd z pokazywaniem tali przeciwnika
 - Dodano ikonkę gry
 - Dodano losowanie głównej karty i wyświetlanie jej
