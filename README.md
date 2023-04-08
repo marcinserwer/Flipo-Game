@@ -48,3 +48,4 @@
 - Optymalizacja kodu o 65 linijek
 - Dobieranie karty po upływie czasu do rzutu karty
 - Dodano funkcje blokady karty i odbijania jej
+- Błąd: Czasem działa funkcja blokady karty czasem nie działa 
