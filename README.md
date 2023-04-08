@@ -46,3 +46,4 @@
 - Nowa lekko zmieniona ikonka gry
 - Dodano licznik czasowy odmierzający czas do końca ruchu gracza
 - Optymalizacja kodu o 65 linijek
+- Dobieranie karty po upływie czasu do rzutu karty
