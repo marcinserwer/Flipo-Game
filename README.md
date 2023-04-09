@@ -50,5 +50,5 @@
 - Dodano funkcje blokady karty i odbijania jej
 - Błąd: Zamiast blokować na jedną kolejkę blokuje na dwie (Naprawiono)
 - Błąd: Nie można odbijać blokady (Naprawiono)
-- Błąd: Podczas odbicia blokady gracza (Ma stać 3 kolejki) przeciwnik może rzucić 3 karty zamiast 2
 - Błąd: Gdy rzuca się Plus4/Plus2 daje sobie dziwną ilość kart, lub przeczywnikowi
+- Błąd: Gdy odbija sie blokadę przeciwnika, powinien stać dwie kolejki a nie jedną
