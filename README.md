@@ -29,7 +29,8 @@
 - Dodano ikonkę gry
 - Dodano losowanie głównej karty i wyświetlanie jej
 - Tworzenie pierwszych kart
-- Naprawiono crash gry po wyjściu gracza. Praca nad naprawieniem błedu "Po wyjściu gracza z meczu pojawiają się komunikatu o oczekiwaniu na gracza a póżniej gracz opuścił mecz"
+- Naprawiono crash gry po wyjściu gracza. 
+- Błąd: Po wyjściu gracza z meczu pojawiają się komunikatu o oczekiwaniu na gracza a póżniej "Gracz opuścił mecz"
 - Dodano przedstawienie graficznych kart
 - Dodano dobieranie dodatkowych kart 
 - Modyfikacja skryptu tworzącego główną kartę
@@ -38,7 +39,6 @@
 - Zmodyfikowano kod dotyczący przechowywania kart
 - Dodano komunikat o wygranym/przegranym meczu
 - Błąd : Można rzucać karty jeśli główna karta jest np. zmiana strony i ma numer 0 to można rzucić byle jaką kartę która ma też numer 0 (Naprawiono)
-- Dalsza praca nad rzucaniem kart
 - Błąd: Czasami zdarza się że karta Plus4, Plus2 dodaje karty sobie a nie przeciwnikowi (Naprawiono)
 - Błąd: Można rzucić zmianę koloru gdy nawet poprzedni gracz nie wybrał koloru (Naprawiono)
 - Błąd: Dobiera np. 6 kart, gdy gracz rzucił plus2 a następnie plus4 i przeciwnikowi nie dodawało 4 kart tylko 6 kart (Naprawiono)
