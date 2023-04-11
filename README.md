@@ -54,3 +54,4 @@
 - Błąd: Gdy odbija sie blokadę przeciwnika, powinien stać dwie kolejki a nie jedną (Naprawiono)
 - Błąd: Czasem przy tworzeniu poczekalni zmienia samoczynnie się ilość kart, powinno być np. 8 a ustawia się na 1 lub 4 kart
 - Błąd: Podczas odbijania blokady można rzucić zwykłą kartę zamiast tylko blokadę (Naprawiono)
+- Dodać: Gdy gracz dobierze kartę i będzie można ją rzucić, pozwolić mu na to
