@@ -5,8 +5,8 @@
 - Dodać galerie NFT i możliwość kupowania skórek do kart
 - Zapraszanie kolegów za pomocom kodu zaproszeń
 - Obsługa czarnego motywu
-- Granie w trzy i cztery osoby (Aktualnie jest tworzone dla dwóch)
-- Muzyka która dopasowuje się do rozgrywki
+- Granie w trzy i cztery osoby
+- Muzyka która dynamicznie dopasowuje się do rozgrywki
 
 ## Postęp pracy 
 ### Wersja 0.1 (15.12.2022 - 07.01.2023, 10 dni pracy)
