@@ -47,7 +47,7 @@
 - Dodano licznik czasowy odmierzający czas do końca ruchu gracza
 - Optymalizacja kodu o 65 linijek
 - Dobieranie karty po upływie czasu do rzutu karty
-- Dodano funkcje blokady karty i odbijania jej (4 dni pracy)
+- Dodano funkcje blokady karty i odbijania jej (5 dni pracy)
 - Błąd: Zamiast blokować na jedną kolejkę blokuje na dwie (Naprawiono)
 - Błąd: Nie można odbijać blokady (Naprawiono)
 - Błąd: Gdy rzuca się Plus4/Plus2 daje sobie dziwną ilość kart, lub przeciwnikowi (Naprawiono) 
