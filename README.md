@@ -21,7 +21,7 @@
 - Dodano zabezpieczenie przed dołączeniem do swojego pokoju
 - Zmieniono funkcję losowania kart, od teraz np. Karta plus 4 nie ma koloru ani numeru, lub zmiana strony nie ma teraz numeru.
 - Dodano okno z konfiguracją meczu: ilość graczy (tylko 2) i ilość kart. Dodano w main_game ilość kart jest pobierana z serwera, komunikat gdy przeciwnik opuści gre i przechodzi do waiting_rooms
-### Wersja 0.2 (08.01.2023 - TBA, 20 dni pracy)
+### Wersja 0.2 (08.01.2023 - TBA, 21 dni pracy)
 - Dodano ilość kart dla drugiego gracza, wyświetlanie dynamicznie graficznych ilości kart przeciwnika, przerobiono funkcję gdzy przeciwnik opuści gre.
 - Błąd: Podwójne komunikaty o "oczekiwaniu na gracza", gdy przeciwnik wychodzi z meczu pokazują się komunikaty o "oczekiwaniu na gracza" a nastepnie "gracz opuścił mecz"
 - Błąd: Talia przeciwnika powinna być dla player2 jeśli jesteś player1 i na odwrót a nie tylko dla player2 (Naprawiono)
@@ -55,4 +55,5 @@
 - Błąd: Czasem przy tworzeniu poczekalni zmienia samoczynnie się ilość kart, powinno być np. 8 a ustawia się na 1 lub 4 kart
 - Błąd: Podczas odbijania blokady można rzucić zwykłą kartę zamiast tylko blokadę (Naprawiono)
 - Dodać: Gdy gracz dobierze kartę i będzie można ją rzucić, pozwolić mu na to
+- Dodano tytuł gry
 - Błąd: Czasem można odbić blokadę przeciwnika, a czasem nie
