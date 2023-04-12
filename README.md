@@ -57,3 +57,4 @@
 - Dodać: Gdy gracz dobierze kartę i będzie można ją rzucić, pozwolić mu na to
 - Dodano tytuł gry
 - Błąd: Czasem można odbić blokadę przeciwnika, a czasem nie
+- Błąd: Gdy Plus4 lub Zmaiana koloru jest ostatnią kartą wyłączyć możliwość wybrania koloru i odrazu przejście do wygrania meczu (Nie obowiązuje dla 3/4 graczy)
