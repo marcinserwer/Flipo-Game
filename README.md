@@ -1,5 +1,5 @@
-# UNO Game
-<h3 align="center">Kiedy chcesz szybko zagrać z drugą osobą w Uno bo macie taką ochotę. Macie do wyboru Una które są brzydkie, mało intuicyjne, nie zachęcające, nastawione na zarobek i mają gdzieś graczy oraz dużo ważą, a wam chodzi aby jak najszybciej sobie pograć. </h3>
+# Flipo - Twisted cards 
+<h3 align="center">To dynamiczna i wciągająca gra karciana na telefon, oparta na zasadach klasycznego Uno. Jeśli masz ochotę na szybką i ekscytującą rozgrywkę z drugą osobą, ta aplikacja jest idealnym wyborem, zwłaszcza jeśli zależy Ci na intuicyjnym interfejsie i przyjaznym dla graczy podejściu. </h3>
 
 ## Przyszłe plany
 - Dodać galerie NFT i możliwość kupowania skórek do kart
