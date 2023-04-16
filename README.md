@@ -47,7 +47,7 @@
 - Dodano licznik czasowy odmierzający czas do końca ruchu gracza
 - Optymalizacja kodu o 65 linijek
 - Dobieranie karty po upływie czasu do rzutu karty
-- Dodano funkcje blokady karty i odbijania jej (8 dni pracy)
+- Dodano funkcje blokady karty i odbijania jej (8 dni pracy) (Działa w 75%)
 - Błąd: Zamiast blokować na jedną kolejkę blokuje na dwie (Naprawiono)
 - Błąd: Nie można odbijać blokady (Naprawiono)
 - Błąd: Gdy rzuca się Plus4/Plus2 daje sobie dziwną ilość kart, lub przeciwnikowi (Naprawiono) 
@@ -58,3 +58,5 @@
 - Dodano tytuł gry
 - Błąd: Czasem można odbić blokadę przeciwnika, a czasem nie
 - Błąd: Gdy Plus4 lub Zmaiana koloru jest ostatnią kartą wyłączyć możliwość wybrania koloru i odrazu przejście do wygrania meczu (Nie obowiązuje dla 3/4 graczy)
+- Nie rozpocząto pracy nad odbijaniem Plus2/Plus4
+### Wersja 0.3 (17.04.2023 - TBA, 0 dni pracy)
