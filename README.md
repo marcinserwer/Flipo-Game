@@ -52,7 +52,7 @@
 - Błąd: Nie można odbijać blokady (Naprawiono)
 - Błąd: Gdy rzuca się Plus4/Plus2 daje sobie dziwną ilość kart, lub przeciwnikowi (Naprawiono) 
 - Błąd: Gdy odbija sie blokadę przeciwnika, powinien stać dwie kolejki a nie jedną (Naprawiono)
-- Błąd: Czasem przy tworzeniu poczekalni zmienia samoczynnie się ilość kart, powinno być np. 8 a ustawia się na 1 lub 4 kart
+- Błąd: Czasem przy tworzeniu poczekalni zmienia samoczynnie się ilość kart, powinno być np. 8 a ustawia się na 7 kart
 - Błąd: Podczas odbijania blokady można rzucić zwykłą kartę zamiast tylko blokadę (Naprawiono)
 - Dodać: Gdy gracz dobierze kartę i będzie można ją rzucić, pozwolić mu na to
 - Dodano tytuł gry
