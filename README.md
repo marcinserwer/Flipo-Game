@@ -61,3 +61,4 @@
 - Nie rozpocząto pracy nad odbijaniem Plus2/Plus4
 ### Wersja 0.3 (16.04.2023 - TBA, 1 dni pracy)
 - Rozpoczęto pracę nad ekranem powitalnym
+- Rozpoczęto pracę nad ekranem głównym
