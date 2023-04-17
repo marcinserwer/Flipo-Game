@@ -7,6 +7,7 @@
 - Obsługa czarnego motywu
 - Granie w trzy i cztery osoby
 - Muzyka która dynamicznie dopasowuje się do rozgrywki
+- Dodać poradnik "Jak grać"
 
 ## Postęp pracy 
 ### Wersja 0.1 (15.12.2022 - 07.01.2023, 10 dni pracy)
