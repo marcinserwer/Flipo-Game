@@ -64,3 +64,4 @@
 - Rozpoczęto pracę nad ekranem powitalnym
 - Rozpoczęto pracę nad ekranem głównym
 - Rozpoczęto pracę nad dołączeniem do gry
+- Nowa ostateczna ikonka gry
