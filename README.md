@@ -65,4 +65,5 @@
 - Rozpoczęto pracę nad ekranem głównym
 - Rozpoczęto pracę nad dołączeniem do gry
 - Nowa ostateczna ikonka gry
-- Praca nad tłem gry
+- Rozpoczęto pracę nad tłem gry
+- Rozpoczęto pracę nad ekranem tworzenia gry
