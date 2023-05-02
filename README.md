@@ -67,4 +67,4 @@
 - Nowa ostateczna ikonka gry
 - Rozpoczęto pracę nad tłem gry
 - Rozpoczęto pracę nad ekranem tworzenia gry
-
+- Przeniesiono wybór postaci do nowego okna 
