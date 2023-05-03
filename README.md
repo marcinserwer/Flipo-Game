@@ -4,7 +4,7 @@
 ## Przyszłe plany
 - Dodać galerie NFT i możliwość kupowania skórek do kart
 - Zapraszanie kolegów za pomocom kodu zaproszeń
-- Obsługa czarnego motywu
+- Obsługa czarnego motywu (W produkcji)
 - Granie w trzy i cztery osoby
 - Muzyka która dynamicznie dopasowuje się do rozgrywki
 - Dodać poradnik "Jak grać"
@@ -60,7 +60,7 @@
 - Błąd: Czasem można odbić blokadę przeciwnika, a czasem nie
 - Błąd: Gdy Plus4 lub Zmaiana koloru jest ostatnią kartą wyłączyć możliwość wybrania koloru i odrazu przejście do wygrania meczu (Nie obowiązuje dla 3/4 graczy)
 - Nie rozpocząto pracy nad odbijaniem Plus2/Plus4
-### Wersja 0.3 (16.04.2023 - TBA, 6 dni pracy)
+### Wersja 0.3 (16.04.2023 - TBA, 7 dni pracy)
 - Rozpoczęto pracę nad ekranem powitalnym
 - Rozpoczęto pracę nad ekranem głównym
 - Rozpoczęto pracę nad dołączeniem do gry
@@ -68,3 +68,4 @@
 - Rozpoczęto pracę nad tłem gry
 - Rozpoczęto pracę nad ekranem tworzenia gry
 - Przeniesiono wybór postaci do nowego okna 
+- Rozpoczęto pracę nad czarnym motywem
