@@ -69,3 +69,4 @@
 - Rozpoczęto pracę nad ekranem tworzenia gry
 - Przeniesiono wybór postaci do nowego okna 
 - Rozpoczęto pracę nad czarnym motywem
+- Stworzenie prototypowego ustawień konta i gry
