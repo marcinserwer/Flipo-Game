@@ -1,9 +1,9 @@
 # Flipo - Twisted cards 
-<h3 align="center">To dynamiczna i wciągająca gra karciana na telefon, oparta na zasadach klasycznego Uno. Jeśli masz ochotę na szybką i ekscytującą rozgrywkę z drugą osobą, ta aplikacja jest idealnym wyborem, zwłaszcza jeśli zależy Ci na intuicyjnym interfejsie i przyjaznym dla graczy podejściu. </h3>
+<h3 align="center">To dynamiczna i wciągająca gra karciana na telefon, oparta na zasadach klasycznego Uno. Jeśli masz ochotę na szybką i ekscytującą rozgrywkę z drugą osobą, ta gra jest idealnym wyborem, zwłaszcza jeśli zależy Ci na intuicyjnym interfejsie i przyjaznym dla graczy podejściu. </h3>
 
 ## Przyszłe plany
 - Dodać galerie NFT i możliwość kupowania skórek do kart
-- Zapraszanie kolegów za pomocom kodu zaproszeń
+- Zapraszanie kolegów za pomocą kodu zaproszeń
 - Obsługa czarnego motywu (W produkcji)
 - Granie w trzy i cztery osoby
 - Muzyka która dynamicznie dopasowuje się do rozgrywki
