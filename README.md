@@ -62,11 +62,8 @@
 - Nie rozpocząto pracy nad odbijaniem Plus2/Plus4
 ### Wersja 0.3 (16.04.2023 - TBA, 13 dni pracy)
 - Rozpoczęto pracę nad ekranem powitalnym (Stworzona druga wersja)
-- Rozpoczęto pracę nad ekranem głównym
-- Rozpoczęto pracę nad dołączeniem do gry (Przenesiono pracę na wersję 0.4)
+- Przeniesiono wybór postaci do nowego okna (Stworzona druga wersja)
+- Rozpoczęto prace projektowe nad ekranem głównym
 - Nowa ostateczna ikonka gry
-- Rozpoczęto pracę nad tłem gry (Skończone)
-- Rozpoczęto pracę nad ekranem tworzenia gry (Przenesiono pracę na wersję 0.4)
-- Przeniesiono wybór postaci do nowego okna 
-- Rozpoczęto pracę nad czarnym motywem
-- Stworzenie prototypowego ustawień konta i gry
+- Dodano tło gry dla jasnego i ciemnego trybu 
+- Rozpoczęto prace projektowe nad ustawieniem konta i gry
