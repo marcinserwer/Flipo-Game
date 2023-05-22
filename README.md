@@ -60,10 +60,11 @@
 - Błąd: Czasem można odbić blokadę przeciwnika, a czasem nie
 - Błąd: Gdy Plus4 lub Zmaiana koloru jest ostatnią kartą wyłączyć możliwość wybrania koloru i odrazu przejście do wygrania meczu (Nie obowiązuje dla 3/4 graczy)
 - Nie rozpocząto pracy nad odbijaniem Plus2/Plus4
-### Wersja 0.3 (16.04.2023 - TBA, 13 dni pracy)
+### Wersja 0.3 (16.04.2023 - TBA, 14 dni pracy)
 - Rozpoczęto pracę nad ekranem powitalnym (Stworzona druga wersja)
 - Przeniesiono wybór postaci do nowego okna (Stworzona druga wersja)
 - Rozpoczęto prace projektowe nad ekranem głównym
+- Rozpoczęto prace projektowe nad ustawieniem konta i gry
 - Nowa ostateczna ikonka gry
 - Dodano tło gry dla jasnego i ciemnego trybu 
-- Rozpoczęto prace projektowe nad ustawieniem konta i gry
+- Skończono rysowanie avatarów
