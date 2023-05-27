@@ -74,3 +74,4 @@
 - Rozpocząto pracę nad nowym oknem tworzenia pokoju
 - Rozpoczęto pracę nad nowym oknem dołączenia do pokoju za pomocą kodu
 - Dodano prototypową inforamcję gdy gracz chce cofąć się do menu głównego gdy już stworzył pokój
+- Dodano możliwość kopiowania kodu do udostępnienia i wklejania go aby nie trzeba było go wpisywać ręcznie
