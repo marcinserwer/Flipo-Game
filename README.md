@@ -72,3 +72,4 @@
 - Kontynuowana praca nad ekranem głównym
 - Stworzono prototypowe nowe okno zawierające szafę grającą i szybką grę (W następnej wersji będą tworzone)
 - Rozpocząto pracę nad nowym oknem tworzenia pokoju
+- Rozpoczęto pracę nad nowym oknem dołączenia do pokoju za pomocą kodu
