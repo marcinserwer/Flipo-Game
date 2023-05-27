@@ -3,7 +3,7 @@
 
 ## Przyszłe plany
 - Dodać galerie NFT i możliwość kupowania skórek do kart
-- Zapraszanie kolegów za pomocą kodu zaproszeń
+- Zapraszanie kolegów za pomocą kodu zaproszeń (Skończone)
 - Obsługa czarnego motywu (W produkcji)
 - Granie w trzy i cztery osoby
 - Muzyka która dynamicznie dopasowuje się do rozgrywki + szafa grająca
