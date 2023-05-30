@@ -68,10 +68,11 @@
 - Nowa ostateczna ikonka gry
 - Dodano tło gry dla jasnego i ciemnego trybu 
 - Skończono rysowanie avatarów
-### Wersja 0.4 (23.05.2023 - TBA, 5 dni pracy)
+### Wersja 0.4 (23.05.2023 - TBA, 6 dni pracy)
 - Kontynuowana praca nad ekranem głównym
 - Stworzono prototypowe nowe okno zawierające szafę grającą i szybką grę (W następnej wersji będą tworzone)
-- Rozpocząto pracę nad nowym oknem tworzenia pokoju
-- Rozpoczęto pracę nad nowym oknem dołączenia do pokoju za pomocą kodu
+- Rozpocząto pracę nad nowym oknem tworzenia pokoju (Skończone)
+- Rozpoczęto pracę nad nowym oknem dołączenia do pokoju za pomocą kodu (Skończone)
 - Dodano prototypową inforamcję gdy gracz chce cofąć się do menu głównego gdy już stworzył pokój
 - Dodano możliwość kopiowania kodu do udostępnienia i wklejania go aby nie trzeba było go wpisywać ręcznie
+- Rozpocząto pracę nad ustawieniami konta i gry
