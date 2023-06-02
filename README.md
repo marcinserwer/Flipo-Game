@@ -76,4 +76,4 @@
 - Dodano prototypową inforamcję gdy gracz chce cofąć się do menu głównego gdy już stworzył pokój
 - Dodano możliwość kopiowania kodu do udostępnienia i wklejania go aby nie trzeba było go wpisywać ręcznie
 - Rozpocząto pracę nad ustawieniami konta i gry
-- Błędy: Miganie aplikacji gdy w telefonie jest włączony tryb nocny a w grze próbuje się uruchomić tryb jasny 
+- Błędy: Miganie aplikacji gdy w telefonie jest włączony tryb nocny a w grze próbuje się uruchomić tryb jasny (Naprawiono)
