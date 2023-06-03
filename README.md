@@ -77,4 +77,5 @@
 - Dodano możliwość kopiowania kodu do udostępnienia i wklejania go aby nie trzeba było go wpisywać ręcznie
 - Rozpocząto pracę nad ustawieniami konta i gry
 - Błędy: Miganie aplikacji gdy w telefonie jest włączony tryb nocny a w grze próbuje się uruchomić tryb jasny (Naprawiono)
-- Tworzenie customowego przełącznika dla trzech opcji motywów
+- Tworzenie customowego przełącznika dla trzech opcji motywów (Stworzony)
+- Dodano zmianę nicku i avataru
