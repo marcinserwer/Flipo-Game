@@ -68,7 +68,7 @@
 - Nowa ostateczna ikonka gry
 - Dodano tło gry dla jasnego i ciemnego trybu 
 - Skończono rysowanie avatarów
-### Wersja 0.4 (23.05.2023 - TBA, 7 dni pracy)
+### Wersja 0.4 (23.05.2023 - TBA, 8 dni pracy)
 - Kontynuowana praca nad ekranem głównym
 - Stworzono prototypowe nowe okno zawierające szafę grającą i szybką grę (W następnej wersji będą tworzone)
 - Rozpocząto pracę nad nowym oknem tworzenia pokoju (Skończone)
@@ -77,3 +77,4 @@
 - Dodano możliwość kopiowania kodu do udostępnienia i wklejania go aby nie trzeba było go wpisywać ręcznie
 - Rozpocząto pracę nad ustawieniami konta i gry
 - Błędy: Miganie aplikacji gdy w telefonie jest włączony tryb nocny a w grze próbuje się uruchomić tryb jasny (Naprawiono)
+- Tworzenie customowego przełącznika dla trzech opcji motywów
