@@ -68,7 +68,7 @@
 - Nowa ostateczna ikonka gry
 - Dodano tło gry dla jasnego i ciemnego trybu 
 - Skończono rysowanie avatarów
-### Wersja 0.4 (23.05.2023 - TBA, 9 dni pracy)
+### Wersja 0.4 (23.05.2023 - TBA, 10 dni pracy)
 - Kontynuowana praca nad ekranem głównym
 - Stworzono prototypowe nowe okno zawierające szafę grającą i szybką grę (W następnej wersji będą tworzone)
 - Rozpocząto pracę nad nowym oknem tworzenia pokoju (Skończone)
@@ -80,3 +80,5 @@
 - Tworzenie customowego przełącznika dla trzech opcji motywów (Stworzony)
 - Dodano zmianę nicku i avataru
 - Tworzenie prototypowego wyglądu inforamcji o piosence na ekranie głównym
+- Praca nad responsywnością gry 
+- Tworzenie customowego przełącznika dla dwóch opcji (Stworzony)
