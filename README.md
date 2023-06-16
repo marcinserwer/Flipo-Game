@@ -82,3 +82,5 @@
 - Tworzenie prototypowego wyglądu inforamcji o piosence na ekranie głównym
 - Praca nad responsywnością gry 
 - Tworzenie customowego przełącznika dla dwóch opcji (Stworzony)
+- Dodano prototypową zakładkę autorów
+- Poprawki wyglądu, responsywności i skryptów
