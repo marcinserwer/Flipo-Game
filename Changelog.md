@@ -1,0 +1,65 @@
+# Work progress
+### Version 0.4 (23.05.2023 - TBA, 16 days of work)
+- Work on the main screen is being continued
+- A prototype of a new window containing the jukebox and quick play has been created
+- Work has started on a new room creation window (Complete)
+- Work has started on a new window for joining a room using a code (Complete)
+- A prototype message has been added to inform the player when they attempt to go back to the main menu after creating a room
+- The functionality to copy the code for sharing and paste it to join the room has been added to eliminate the need for manual entry
+- Work has started on the account and game settings (Complete)
+- Bug: The application flickers when the device's night mode is enabled, and the game tries to switch to the light mode (Fixed)
+- Creating a custom switch for two and three options (Complete)
+- The function to change nickname and avatar has been added
+- A prototype design for displaying song information on the main screen has been created
+- Work on improving the responsiveness of the game is in progress 
+- A prototype screen for displaying the authors has been added
+- Improvements have been made to the appearance, responsiveness, and scripts
+### Version 0.3 (16.04.2023 - 23.05.2023, 15 days of work)
+- Work has started on the welcome screen (The second version has been created)
+- Work has started on the avatar selection screen (The second version has been created)
+- Design work has commenced on the main screen
+- Design work has begun on the account and game settings
+- The game has a new icon
+- A game background has been added for both light and dark modes
+- The avatars drawing is complete
+### Version 0.2 (08.01.2023 - 16.04.2023, 23 days of work)
+- The functionality the number of cards for the second player, dynamically display graphical cards of the opponent, and modify code when the opponent leaves the game has been implemented
+- Bug: Messages when an opponent leaves a match show "Waiting for player" followed by a double message "Player has left the match"
+- Bug: The opponent's deck should be for player2 if you are player1 and vice versa, not just for player2 (Fixed)
+- The game icon has been added
+- The function to draw the main card and display it has been added
+- The first version of graphics game cards has been created
+- The function to draw additional card has been added 
+- Work has begun on card throwing functionality
+- The players movements has been added
+- The code related to card storage has been modified
+- The message about winning/losing the match has been added
+- Bug: The "Plus 4" and "Plus 2" cards sometimes add cards to oneself instead of the opponent has been addressed (Fixed)
+- Bug: It is possible to play a color change card even if the previous player has not chosen a color yet (Fixed)
+- The card "Reverse" functionality has been added
+- The game icon has been updated with a slight modification
+- The timer has been added to count down the remaining time for the player's turn
+- Optimized the code by 65 lines
+- The function to add a card after the time limit for the turn has elapsed has been added
+- The function of the "Block" card and the ability to deflect it has been added (8 days of work) (The function is currently 75% complete and requires further improvement)
+- Bug: The "Block" card, which is intended to block for one turn, is currently blocking for two turns. (Fixed)
+- Bug: The "Block" card cannot be deflected (Fixed)
+- Bug: The "Plus 4" and "Plus 2" cards are adding an incorrect number of cards, either to oneself or to the opponent (Fixed) 
+- Bug: When deflecting the opponent's "Block" card, they should be blocked for two turns instead of one (Fixed)
+- Bug: Sometimes, when creating a lobby, the number of cards automatically changes, setting it to 7 instead of the intended 8 cards
+- Bug: During the deflection of the "Block" card, it is possible to play a regular card instead of only the "Block" card (Fixed)
+- Add in future: When a player draws a card and it can be played immediately, allow them to do so
+- The game title has been created
+- Bug: Sometimes it is possible to deflect the opponent's "Block" card, while other times it is not possible
+- Add in future: When the "Plus 4" or "Color Change" card is the last card played, disable the option to choose a color and immediately proceed to declare the match winner (Does not apply to 3/4 players)
+### Version 0.1 (15.12.2022 - 07.01.2023, 10 days of work)
+- The card drawing system, card storage system has been created
+- The main gameplay activity has been created
+- The user name saving feature has been add the initial screen
+- The real-time connection with the server has been created
+- The nickname change functionality has been added
+- The waiting for the second player in the room has been added
+- The protection against joining own room has been created
+- The card drawing function has been modified
+- The room configuration function has been added
+- Bug: When a room is created, it automatically starts the main game (Fixed)
