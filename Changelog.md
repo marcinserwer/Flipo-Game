@@ -14,6 +14,7 @@
 - Work on improving the responsiveness of the game is in progress 
 - A prototype screen for displaying the authors has been added
 - Improvements have been made to the appearance, responsiveness, and scripts
+- Game icon and game cards amendments
 ### Version 0.3 (16.04.2023 - 23.05.2023, 15 days of work)
 - Work has started on the welcome screen (The second version has been created)
 - Work has started on the avatar selection screen (The second version has been created)
