@@ -1,5 +1,5 @@
 # Work progress
-### Version 0.4 (23.05.2023 - TBA, 16 days of work)
+### Version 0.4 (23.05.2023 - TBA, 17 days of work)
 - Work on the main screen is being continued
 - A prototype of a new window containing the jukebox and quick play has been created
 - Work has started on a new room creation window (Complete)
