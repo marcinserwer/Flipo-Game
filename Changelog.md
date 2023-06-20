@@ -1,5 +1,5 @@
 # Work progress
-### Version 0.4 (23.05.2023 - TBA, 17 days of work)
+### Version 0.4 (23.05.2023 - TBA, 18 days of work)
 - Work on the main screen is being continued
 - A prototype of a new window containing the jukebox and quick play has been created
 - Work has started on a new room creation window (Complete)
@@ -15,6 +15,7 @@
 - A prototype screen for displaying the authors has been added
 - Improvements have been made to the appearance, responsiveness, and scripts
 - Game icon and game cards amendments
+- Bug: Game freezes after exiting the room creation window in Android 8
 ### Version 0.3 (16.04.2023 - 23.05.2023, 15 days of work)
 - Work has started on the welcome screen (The second version has been created)
 - Work has started on the avatar selection screen (The second version has been created)
